@@ -16,6 +16,19 @@ Menampilkan tampilan pembuka aplikasi selama proses loading awal dengan animasi 
 
 <img width="265" height="458" alt="image" src="https://github.com/user-attachments/assets/4f267e98-89aa-4034-ae02-6b8e8b43f38f" />
 
+**C. NAVIGASI SIDE BAR**
+
+**Fungsi:** Sidebar ini berfungsi sebagai panel navigasi untuk berpindah antar halaman seperti Beranda, Profil, dan Biodata. Selain itu, juga terdapat opsi Logout untuk kembali ke halaman awal (splash screen). Desain sidebar menggunakan kombinasi warna biru dengan teks putih agar terlihat bersih dan profesional. Data nama serta NIM pengguna juga ditampilkan di bagian header sidebar secara otomatis dari penyimpanan lokal (SharedPreferences).
+
+<img width="267" height="622" alt="image" src="https://github.com/user-attachments/assets/829bf6f5-f0a0-447e-a2bd-75b1562fb7cb" />
+
+**C. KONTAK**
+
+**Fungsi:** Kontak fungsinya untuk menampilkan nomor kontak beserta nama, tetapi ini masih berbentuk data statis atau hardcode.
+
+<img width="369" height="878" alt="image" src="https://github.com/user-attachments/assets/8fc44424-8dba-4415-878f-f874b0e41dce" />
+
+
 **C. KALKULATOR**
 
 **Fungsi:** Menghitung operasi matematika dasar dan juga ada feature untuk mode gelap dan terang nya, jadi memungkinkan untuk dipakai pada saat kondisi khusus.
